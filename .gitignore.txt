@@ -1,0 +1,19 @@
+# Java
+target/
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Env files
+.env
+
+# Secrets
+application.yml
